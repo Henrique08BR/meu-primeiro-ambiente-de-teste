@@ -1,23 +1,22 @@
-ID do Requisito
+# Qualidade de Software - Prática 1
 
-Descrição do Requisito
+## Matriz de Rastreabilidade
 
-ID do Caso de Teste
+| ID do Requisito | Descrição do Requisito | ID do Caso de Teste | Status do Teste |
+|---|---|---|---|
+| REQ-01 | Exibir título correto | CT-01 | Pendente |
+| REQ-02 | Conter botão de login | CT-02 | Pendente |
 
-Status do Teste
+## Plano de Testes
 
-REQ-01
+Esta atividade tem como objetivo verificar se a aplicação atende aos requisitos definidos.
 
-Exibir título correto
+### Requisitos
 
-CT-01
+- **REQ-01:** A aplicação deve exibir o título "Portal de Qualidade PROZ".
+- **REQ-02:** A aplicação deve possuir um botão de login.
 
-Pendente
+### Casos de Teste
 
-REQ-02
-
-Conter botão de login
-
-CT-02
-
-Pendente
+- **CT-01:** Verificar se o título da página está correto.
+- **CT-02:** Verificar se o botão de login está presente.

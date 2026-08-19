@@ -1,2 +1,23 @@
-# meu-primeiro-ambiente-de-teste
-Esta atividade prática foi desenhada para a vivência real de conceitos modernos de Qualidade de Software na nuvem.
+ID do Requisito
+
+Descrição do Requisito
+
+ID do Caso de Teste
+
+Status do Teste
+
+REQ-01
+
+Exibir título correto
+
+CT-01
+
+Pendente
+
+REQ-02
+
+Conter botão de login
+
+CT-02
+
+Pendente
